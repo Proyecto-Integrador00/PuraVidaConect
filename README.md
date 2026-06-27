@@ -9,9 +9,9 @@ Esto no es solo otro proyecto de universidad. La idea es construir algo que pued
 ## Stack
 
 ```
-React + Vite + Tailwind  ->  Frontend (a cargo tuyo)
+React + Vite + Tailwind  ->  Frontend 
         | HTTP / JSON
-FastAPI + Python 3.12     ->  Backend (lo que esta construido)
+FastAPI + Python 3.12     ->  Backend 
         | asyncpg
 PostgreSQL 16             ->  Base de datos (Docker)
 ```
